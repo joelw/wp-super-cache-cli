@@ -8,6 +8,7 @@ This repository contains a [WP-CLI plugin](https://github.com/wp-cli/wp-cli)  fo
        or: wp super-cache flush [--post_id=<post-id>] [--permalink=<permalink>]
        or: wp super-cache preload [--status] [--cancel]
        or: wp super-cache status 
+       or: wp super-cache defaults
     
     See 'wp help super-cache <command>' for more information on a specific command.
 
